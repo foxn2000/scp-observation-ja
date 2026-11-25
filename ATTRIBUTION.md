@@ -1,0 +1,42 @@
+# 出典
+
+問題文の抜粋は、SCP 財団 Wiki 日本語版の次の 38 記事(2026 年 11 月 24 日版、CC BY-SA 3.0)から取りました。各問の問題文にも、同じ出典を記載しています。
+
+- SCP財団 日本語版『SCP-009-JP』、shinjimao、https://scp-jp.wikidot.com/scp-009-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-036-JP』、shinjimao、https://scp-jp.wikidot.com/scp-036-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-040-JP』、Ikr_4185、https://scp-jp.wikidot.com/scp-040-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-055』、日本語版投稿者 Dr Devan、https://scp-jp.wikidot.com/scp-055。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-083-JP』、kyougoku08、https://scp-jp.wikidot.com/scp-083-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-1045-JP』、KanKan、https://scp-jp.wikidot.com/scp-1045-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-132-JP』、locker、https://scp-jp.wikidot.com/scp-132-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-1475-JP』、semiShigUre、https://scp-jp.wikidot.com/scp-1475-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-1645-JP』、aobasity17852、https://scp-jp.wikidot.com/scp-1645-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-1706-JP』、kotarou611・Pagema157、https://scp-jp.wikidot.com/scp-1706-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-198』、日本語版投稿者 m0ch12uk1、https://scp-jp.wikidot.com/scp-198。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-1983』、日本語版投稿者 Porsche466、https://scp-jp.wikidot.com/scp-1983。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-2295』、日本語版投稿者 gnmaee(NoTranslator)、https://scp-jp.wikidot.com/scp-2295。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-2317』、日本語版投稿者 boatOB、https://scp-jp.wikidot.com/scp-2317。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-242-JP』、darumaboy、https://scp-jp.wikidot.com/scp-242-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-243-JP』、grejum、https://scp-jp.wikidot.com/scp-243-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-2616-JP』、BenjaminChong、https://scp-jp.wikidot.com/scp-2616-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-3007』、日本語版投稿者 Nimono-oishi、https://scp-jp.wikidot.com/scp-3007。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-3008』、日本語版投稿者 C-Dives、https://scp-jp.wikidot.com/scp-3008。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-3049』、日本語版投稿者 C-Dives、https://scp-jp.wikidot.com/scp-3049。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-3127』、日本語版投稿者 C-Dives、https://scp-jp.wikidot.com/scp-3127。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-374-JP』、doragon akitsuki、https://scp-jp.wikidot.com/scp-374-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-426』、日本語版投稿者 m0ch12uk1、https://scp-jp.wikidot.com/scp-426。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-439-JP』、watter12、https://scp-jp.wikidot.com/scp-439-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-4560』、日本語版投稿者 C-Dives、https://scp-jp.wikidot.com/scp-4560。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-4999』、原著者 CadaverCommander、日本語版投稿者 Fennecist、https://scp-jp.wikidot.com/scp-4999。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-5031』、日本語版投稿者 C-Dives、https://scp-jp.wikidot.com/scp-5031。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-522-JP』、Mamekusa_T、https://scp-jp.wikidot.com/scp-522-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-544-JP』、DocRone、https://scp-jp.wikidot.com/scp-544-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-548-JP』、29mo、https://scp-jp.wikidot.com/scp-548-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-646-JP』、amamiel、https://scp-jp.wikidot.com/scp-646-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-650-JP』、boatOB、https://scp-jp.wikidot.com/scp-650-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-818-JP』、HURUMOTO65、https://scp-jp.wikidot.com/scp-818-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-895』、日本語版投稿者 m0ch12uk1、https://scp-jp.wikidot.com/scp-895。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-905-JP』、iPod_surgery・T_Miyabi、https://scp-jp.wikidot.com/scp-905-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-910-JP』、tsucchii0301、https://scp-jp.wikidot.com/scp-910-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-973-JP』、perry0720、https://scp-jp.wikidot.com/scp-973-jp。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
+- SCP財団 日本語版『SCP-999』、日本語版投稿者 tokage-otoko、https://scp-jp.wikidot.com/scp-999。2026年11月24日版。原文 CC BY-SA 3.0。抜粋と架空の日誌を組み合わせた本問は CC BY-SA 4.0。
