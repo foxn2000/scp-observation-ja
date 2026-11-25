@@ -2,6 +2,7 @@
 name = "scp-observation-ja"
 version = "0.1.0"
 description = "SCP 観測日誌ベンチマークの verifiers v1 評価環境"
+readme = "README.md"
 license = "CC-BY-SA-4.0"
 requires-python = ">=3.11,<3.14"
 dependencies = ["verifiers==0.2.0"]
